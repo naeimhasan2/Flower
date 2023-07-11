@@ -1,0 +1,76 @@
+body {
+    font-family: segoe uI;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    
+     align-items: center; 
+
+}
+
+.header-area {
+    background: linear-gradient(180deg, rgba(229, 84, 115, 0.36) 0%, rgba(229, 162, 84, 0.31) 15.10%, rgba(229, 84, 115, 0.28) 23.95%, rgba(229, 84, 115, 0.27) 23.96%, rgba(229, 84, 115, 0.24) 33.85%, rgba(229, 84, 115, 0.18) 36.46%, rgba(229, 84, 115, 0.00) 43.75%, rgba(229, 84, 115, 0.00) 53.65%);
+
+    
+    
+
+}
+
+.text-area{
+    
+}
+.text-area h2{
+    margin-left: 0px;
+    font-size: 60px;
+    
+    
+}
+
+.text-area p{
+    margin-bottom: 10px;
+    font-size: 15px;
+    
+}
+
+.text-area {
+    
+}
+
+   .button-now{
+     color: #ffffff;
+    text-decoration: none;
+   
+    text-transform: capitalize;
+    margin-right: 100px;
+     cursor: pointer; 
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+padding: 15px 35px;
+align-items: flex-start;
+gap: 10px;
+font-size: 15px;
+     
+    
+} 
+.text-area{
+    
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+    display: flex;
+    
+}
+
+.text-area .imga-fo{
+    
+    width: 500px;
+    position: center;
+    object-position: center;
+    margin-left: 400px;
+    
+   
+}
